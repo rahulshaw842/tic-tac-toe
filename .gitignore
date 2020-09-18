@@ -1,0 +1,20 @@
+
+
+# Dependency directories
+/Backend/node_modules
+/Frontend/node_modules
+# compiled output
+/Frontend/dist
+/Frontend/tmp
+/Frontend/out-tsc
+# Only exists if Bazel was run
+/Frontend/bazel-out
+
+# Logs
+/Backend/logs
+*.log
+/Backend/npm-debug.log*
+
+
+# Optional npm cache directory
+.npm
